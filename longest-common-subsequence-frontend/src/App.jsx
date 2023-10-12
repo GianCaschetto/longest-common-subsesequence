@@ -52,7 +52,6 @@ function App() {
 
     return (
         <div>
-            {/* Header y fondo existente */}
             <header className="absolute inset-x-0 top-0 z-50">
                 <nav
                     className="flex items-center justify-center p-6 lg:px-8"
@@ -65,7 +64,6 @@ function App() {
                 <div className="border-b-2 border-white"></div>
             </header>
 
-            {/* Formulario centrado */}
             <main className="min-h-screen flex items-center justify-center bg-gradient-to-br from-pink-200 to-blue-200 relative">
                 <div className="bg-white p-6 sm:p-8 rounded-lg shadow-md max-w-md w-full">
                     <h1 className="text-2xl font-semibold text-gray-900 mb-4 text-center">
@@ -111,7 +109,6 @@ function App() {
                 </div>
             </main>
 
-            {/* Footer con nombres de los integrantes del equipo */}
             <footer className=" absolute inset-x-0 bottom-0 p-4 text-center text-black flex justify-center ">
                 <div className="border-t-2 border-white w-full ">
                     <div className="flex justify-center my-4 text-center">
