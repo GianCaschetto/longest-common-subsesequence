@@ -1,4 +1,4 @@
-#Documentación de la Aplicación de Subsecuencia
+# Documentación de la Aplicación de Subsecuencia
 Común Más Larga
 
 Esta documentación proporciona una descripción general y detalles de uso tanto para
@@ -6,7 +6,7 @@ el back-end (API) como para el front-end de la aplicación de Subsecuencia Comú
 Larga. La aplicación permite calcular la subsecuencia común más larga entre dos
 cadenas de texto.
 
-##Backend (API)
+## Backend (API)
 
 Descripción General
 El backend de la aplicación es una API que realiza el cálculo de la subsecuencia común
@@ -14,7 +14,7 @@ más larga entre dos cadenas de texto. Utiliza un algoritmo de programación din
 para encontrar esta subsecuencia y proporciona el resultado a través de solicitudes
 HTTP.
 
-###Uso Básico
+### Uso Básico
 Para utilizar la API, sigue estos pasos:
 1. Inicia el servidor Express que proporciona la API. El servidor escuchará en el
 puerto 3000 por defecto.
@@ -33,14 +33,14 @@ Ruta de Subsecuencia Común Más Larga ("/lcs")
 cadenas de texto. Se accede a través de solicitudes GET y se deben
 proporcionar los parámetros str1 y str2.
 
-##Frontend
+## Frontend
 Descripción General
 El frontend de la aplicación es una interfaz de usuario web que permite a los usuarios
 interactuar con la API del backend. Permite ingresar dos cadenas de texto, enviarlas al
 servidor para el cálculo y muestra el resultado en la interfaz de usuario.
 Uso Básico
 
-###Para utilizar el frontend, sigue estos pasos:
+### Para utilizar el frontend, sigue estos pasos:
 1. Asegúrate de que el servidor backend esté en ejecución (la API esté disponible
 en el puerto 3000).
 2. Abre el frontend en un navegador web.
@@ -57,7 +57,7 @@ envían las cadenas al servidor para realizar el cálculo.
 pantalla, indicando la longitud de la subsecuencia común más larga y la propia
 subsecuencia.
 
-##Instalación
+## Instalación
 Para ejecutar la aplicación de Subsecuencia Común Más Larga, sigue estos pasos:
 1. Abre una terminal en el directorio raíz del proyecto.
 2. Ejecuta el siguiente comando para iniciar el servidor Express:
