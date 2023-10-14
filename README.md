@@ -77,4 +77,5 @@ completa de la aplicación, tanto del backend como del frontend, incluyendo deta
 sobre cómo instalar y ejecutar cada parte. Asegúrate de seguir estos pasos para
 garantizar un funcionamiento adecuado de la aplicación.
 
+## Diagrama de flujo de la aplicacion
 ![diagramadeflujo-longest-common-api](https://github.com/GianCaschetto/longest-common-subsesequence/assets/83784934/42764ebe-d2ae-4b8d-bd98-0565d78c6373)
