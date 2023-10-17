@@ -7,7 +7,7 @@ Larga. La aplicación permite calcular la subsecuencia común más larga entre d
 cadenas de texto.
 
 # Video explicativo de la aplicación 
-[longest common subsequence tutorial]([https://www.google.com](https://youtu.be/uuEugVtVS5k))
+[(longest common subsequence tutorial](https://youtu.be/uuEugVtVS5k)]
 
 ## Backend (API)
 
