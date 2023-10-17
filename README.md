@@ -6,6 +6,9 @@ el back-end (API) como para el front-end de la aplicación de Subsecuencia Comú
 Larga. La aplicación permite calcular la subsecuencia común más larga entre dos
 cadenas de texto.
 
+# Video explicativo de la aplicación 
+[longest common subsequence tutorial]([https://www.google.com](https://youtu.be/uuEugVtVS5k))
+
 ## Backend (API)
 
 Descripción General
